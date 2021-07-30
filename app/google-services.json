@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "492431901373",
+    "project_id": "white-label-tutorial-f688a",
+    "storage_bucket": "white-label-tutorial-f688a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492431901373:android:db481c265e0ed88d046dd4",
+        "android_client_info": {
+          "package_name": "br.com.estudos.whitelabeltutorial.bike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptGfB0S1vzW-77_QnxioqwwDQJ2anne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492431901373:android:b555a0b3775481af046dd4",
+        "android_client_info": {
+          "package_name": "br.com.estudos.whitelabeltutorial.bike.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptGfB0S1vzW-77_QnxioqwwDQJ2anne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492431901373:android:15d03d20870ddd49046dd4",
+        "android_client_info": {
+          "package_name": "br.com.estudos.whitelabeltutorial.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptGfB0S1vzW-77_QnxioqwwDQJ2anne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492431901373:android:34694265c0096b67046dd4",
+        "android_client_info": {
+          "package_name": "br.com.estudos.whitelabeltutorial.car.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCptGfB0S1vzW-77_QnxioqwwDQJ2anne8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492431901373-2fn8jl4s3j1ucdn6nqn2ebdakeuuumn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
