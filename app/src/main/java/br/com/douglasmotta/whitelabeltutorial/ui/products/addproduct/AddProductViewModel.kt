@@ -9,9 +9,13 @@ import androidx.lifecycle.viewModelScope
 import br.com.douglasmotta.whitelabeltutorial.R
 import br.com.douglasmotta.whitelabeltutorial.domain.usecase.CreateProductUseCase
 import br.com.douglasmotta.whitelabeltutorial.util.fromCurrency
+import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.launch
+import javax.inject.Inject
 
-class AddProductViewModel(private val createProductUseCase: CreateProductUseCase) : ViewModel() {
+@HiltViewModel
+class AddProductViewModel @Inject constructor (private val createProductUseCase: CreateProductUseCase) :
+    ViewModel() {
 
     private val _imageUriErrorResId = MutableLiveData<Int>()
     val imageUriErrorResId: LiveData<Int> = _imageUriErrorResId
